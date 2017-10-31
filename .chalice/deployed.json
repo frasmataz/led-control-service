@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "api_handler_name": "LEDControlService-dev",
+    "api_handler_arn": "arn:aws:lambda:eu-west-1:625441638016:function:LEDControlService-dev",
+    "lambda_functions": {},
+    "backend": "api",
+    "chalice_version": "1.0.2",
+    "rest_api_id": "w7vsx08v0d",
+    "api_gateway_stage": "api",
+    "region": "eu-west-1"
+  }
+}
